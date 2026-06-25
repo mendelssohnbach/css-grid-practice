@@ -8,3 +8,13 @@ p {
   font-size: 14px;
   margin-bottom: 1em;
 }
+
+.container {
+  background-color: #eeeeee;
+}
+
+.container > div {
+  background: #cccccc;
+  padding: 10px;
+  height: 80px;
+}
