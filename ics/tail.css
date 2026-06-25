@@ -1,0 +1,10 @@
+/* 見た目調整用 */
+body {
+  /* フォントの種類を指定 */
+  font-family: sans-serif;
+}
+
+p {
+  font-size: 14px;
+  margin-bottom: 1em;
+}
